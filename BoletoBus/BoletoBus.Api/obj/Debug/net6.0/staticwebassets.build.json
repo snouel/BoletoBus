@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "L34kBDk/GmYazk25dWZb9IjvQuQ+C2gnDBwA7d084pM=",
+  "Source": "BoletoBus.Api",
+  "BasePath": "_content/BoletoBus.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
