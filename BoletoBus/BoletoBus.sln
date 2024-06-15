@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoletoBus", "BoletoBus\BoletoBus.csproj", "{F971EA25-1E0A-473B-BC2E-7E968316E12F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoletoBus.Domain", "BoletoBus.Domain\BoletoBus.Domain.csproj", "{545FE4A8-412D-484E-B058-3EFB23E705CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F971EA25-1E0A-473B-BC2E-7E968316E12F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F971EA25-1E0A-473B-BC2E-7E968316E12F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F971EA25-1E0A-473B-BC2E-7E968316E12F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{545FE4A8-412D-484E-B058-3EFB23E705CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{545FE4A8-412D-484E-B058-3EFB23E705CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{545FE4A8-412D-484E-B058-3EFB23E705CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{545FE4A8-412D-484E-B058-3EFB23E705CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,14 @@
+C:\BoletoBus\BoletoBus\BoletoBus\bin\Debug\net6.0\BoletoBus.exe
+C:\BoletoBus\BoletoBus\BoletoBus\bin\Debug\net6.0\BoletoBus.deps.json
+C:\BoletoBus\BoletoBus\BoletoBus\bin\Debug\net6.0\BoletoBus.runtimeconfig.json
+C:\BoletoBus\BoletoBus\BoletoBus\bin\Debug\net6.0\BoletoBus.dll
+C:\BoletoBus\BoletoBus\BoletoBus\bin\Debug\net6.0\BoletoBus.pdb
+C:\BoletoBus\BoletoBus\BoletoBus\obj\Debug\net6.0\BoletoBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\BoletoBus\BoletoBus\BoletoBus\obj\Debug\net6.0\BoletoBus.AssemblyInfoInputs.cache
+C:\BoletoBus\BoletoBus\BoletoBus\obj\Debug\net6.0\BoletoBus.AssemblyInfo.cs
+C:\BoletoBus\BoletoBus\BoletoBus\obj\Debug\net6.0\BoletoBus.csproj.CoreCompileInputs.cache
+C:\BoletoBus\BoletoBus\BoletoBus\obj\Debug\net6.0\BoletoBus.dll
+C:\BoletoBus\BoletoBus\BoletoBus\obj\Debug\net6.0\refint\BoletoBus.dll
+C:\BoletoBus\BoletoBus\BoletoBus\obj\Debug\net6.0\BoletoBus.pdb
+C:\BoletoBus\BoletoBus\BoletoBus\obj\Debug\net6.0\BoletoBus.genruntimeconfig.cache
+C:\BoletoBus\BoletoBus\BoletoBus\obj\Debug\net6.0\ref\BoletoBus.dll

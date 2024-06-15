@@ -1,0 +1,14 @@
+C:\BoletoBus\BoletoBus\BoletoBus.Domain\bin\Debug\net6.0\BoletoBus.Domain.exe
+C:\BoletoBus\BoletoBus\BoletoBus.Domain\bin\Debug\net6.0\BoletoBus.Domain.deps.json
+C:\BoletoBus\BoletoBus\BoletoBus.Domain\bin\Debug\net6.0\BoletoBus.Domain.runtimeconfig.json
+C:\BoletoBus\BoletoBus\BoletoBus.Domain\bin\Debug\net6.0\BoletoBus.Domain.dll
+C:\BoletoBus\BoletoBus\BoletoBus.Domain\bin\Debug\net6.0\BoletoBus.Domain.pdb
+C:\BoletoBus\BoletoBus\BoletoBus.Domain\obj\Debug\net6.0\BoletoBus.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\BoletoBus\BoletoBus\BoletoBus.Domain\obj\Debug\net6.0\BoletoBus.Domain.AssemblyInfoInputs.cache
+C:\BoletoBus\BoletoBus\BoletoBus.Domain\obj\Debug\net6.0\BoletoBus.Domain.AssemblyInfo.cs
+C:\BoletoBus\BoletoBus\BoletoBus.Domain\obj\Debug\net6.0\BoletoBus.Domain.csproj.CoreCompileInputs.cache
+C:\BoletoBus\BoletoBus\BoletoBus.Domain\obj\Debug\net6.0\BoletoBus.Domain.dll
+C:\BoletoBus\BoletoBus\BoletoBus.Domain\obj\Debug\net6.0\refint\BoletoBus.Domain.dll
+C:\BoletoBus\BoletoBus\BoletoBus.Domain\obj\Debug\net6.0\BoletoBus.Domain.pdb
+C:\BoletoBus\BoletoBus\BoletoBus.Domain\obj\Debug\net6.0\BoletoBus.Domain.genruntimeconfig.cache
+C:\BoletoBus\BoletoBus\BoletoBus.Domain\obj\Debug\net6.0\ref\BoletoBus.Domain.dll
