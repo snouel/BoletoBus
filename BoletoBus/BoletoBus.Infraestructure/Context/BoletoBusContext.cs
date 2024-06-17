@@ -8,7 +8,7 @@ namespace BoletoBus.Infraestructure.Context
     {
         public BoletoBusContext(DbContextOptions<BoletoBusContext> dbContext) : base(dbContext)
         {
-
+            
         }
         public DbSet<Asiento> Asiento { get; set; }
         public DbSet<Bus> Bus { get; set; }

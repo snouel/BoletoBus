@@ -8,7 +8,7 @@ namespace BoletoBus.Domain.Models
         public int IdBus { get; set; }
         public int NumeroPiso { get; set; }
         public int NumeroAsiento { get; set; }
-        public BusModel Bus { get; set; }
-        public ICollection<ReservaDetalleModel> ReservaDetalles { get; set; }
+        public BusModel? Bus { get; set; }
+        public ICollection<ReservaDetalleModel>? ReservaDetalles { get; set; }
     }
 }

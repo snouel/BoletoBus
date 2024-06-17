@@ -1,12 +1,3 @@
-C:\BoletoBus\BoletoBus\BoletoBus.Api\bin\Debug\net6.0\BoletoBus.Ioc.deps.json
-C:\BoletoBus\BoletoBus\BoletoBus.Api\bin\Debug\net6.0\BoletoBus.Ioc.runtimeconfig.json
-C:\BoletoBus\BoletoBus\BoletoBus.Api\bin\Debug\net6.0\BoletoBus.Infraestructure.deps.json
-C:\BoletoBus\BoletoBus\BoletoBus.Api\bin\Debug\net6.0\BoletoBus.Infraestructure.runtimeconfig.json
-C:\BoletoBus\BoletoBus\BoletoBus.Api\bin\Debug\net6.0\BoletoBus.Domain.deps.json
-C:\BoletoBus\BoletoBus\BoletoBus.Api\bin\Debug\net6.0\BoletoBus.Domain.runtimeconfig.json
-C:\BoletoBus\BoletoBus\BoletoBus.Api\bin\Debug\net6.0\BoletoBus.Domain.exe
-C:\BoletoBus\BoletoBus\BoletoBus.Api\bin\Debug\net6.0\BoletoBus.Infraestructure.exe
-C:\BoletoBus\BoletoBus\BoletoBus.Api\bin\Debug\net6.0\BoletoBus.Ioc.exe
 C:\BoletoBus\BoletoBus\BoletoBus.Api\bin\Debug\net6.0\appsettings.Development.json
 C:\BoletoBus\BoletoBus\BoletoBus.Api\bin\Debug\net6.0\appsettings.json
 C:\BoletoBus\BoletoBus\BoletoBus.Api\bin\Debug\net6.0\BoletoBus.Api.exe

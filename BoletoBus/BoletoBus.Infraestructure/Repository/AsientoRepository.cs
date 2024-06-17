@@ -3,11 +3,20 @@ using BoletoBus.Domain.Interfaces;
 using BoletoBus.Domain.Models;
 using BoletoBus.Infraestructure.Context;
 using BoletoBus.Infraestructure.Core;
+using Microsoft.EntityFrameworkCore;
 
 namespace BoletoBus.Infraestructure.Repository
 {
     public class AsientoRepository : BaseRepository<Asiento>, IAsientoRepository
     {
+
+        public void TestConnection()
+        {
+            this.context.Database.OpenConnection();
+            this.context.Database.CloseConnection();
+        }
+
+
         private readonly BoletoBusContext context;
         public AsientoRepository(BoletoBusContext context) : base(context)
         {

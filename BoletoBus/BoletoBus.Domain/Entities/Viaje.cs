@@ -16,8 +16,8 @@ namespace BoletoBus.Domain.Entities
         public int AsientosReservados { get; set; }
         public int AsientoDisponibles { get; set; } // TotalAsientos - AsientosReservados
         public bool Completo { get; set; } // TotalAsientos - AsientosReservados < 1
-        public Bus Bus { get; set; }
-        public Ruta Ruta { get; set; }
-        public ICollection<Reserva> Reservas { get; set; }
+        public Bus? Bus { get; set; }
+        public Ruta? Ruta { get; set; }
+        public ICollection<Reserva>? Reservas { get; set; }
     }
 }

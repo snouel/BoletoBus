@@ -8,5 +8,6 @@ namespace BoletoBus.Domain.Interfaces
     {
         List<AsientoModel> GetAsientos();
         List<AsientoModel> GetAsientosByBus(int busId);
+        void TestConnection();
     }
 }
